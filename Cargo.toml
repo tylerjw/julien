@@ -4,5 +4,9 @@ version = "0.1.0"
 edition = "2021"
 license = "BSD-3-Clause"
 description = "Robotics library with influences from MoveIt and Pinocchio"
+readme = "README.md"
+repository = "https://github.com/tylerjw/julien/"
+keywords = ["robotics"]
+categories = ["science::robotics"]
 
 [dependencies]
